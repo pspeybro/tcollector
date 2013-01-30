@@ -5,3 +5,13 @@ handles the communication with the TSDs.
 For more info, see
 
 http://www.opentsdb.net/tcollector.html
+
+
+tcollector.net
+--------------
+
+The tcollector.net directory contains a C# plugin framework for OpenTSDB data collection. 
+This should make it easier to collect metrics from Windows machines.
+
+It requires the .Net 4.0 framework.
+Plugin framework is based on the Managed Extensibility Framework (MEF)
